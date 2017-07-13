@@ -2,6 +2,9 @@
   "name": "pcrepair",
   "version": "1.0.0",
   "description": "An application that features our computer repair services.",
+  "engines": {
+    "node": "6.11.1"
+  },
   "main": "app.js",
   "scripts": {
     "start": "node ./bin/www"
