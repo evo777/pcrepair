@@ -1,7 +1,7 @@
 {
   "name": "pcrepair",
   "version": "1.0.0",
-  "description": "An application that features our computer repair services.",
+  "description": "An application that features our computer services.",
   "engines": {
     "node": "6.11.1"
   },
